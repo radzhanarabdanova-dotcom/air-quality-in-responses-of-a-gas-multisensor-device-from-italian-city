@@ -1,0 +1,16 @@
+---
+title: "Air Quality Analysis"
+author: "Radzhana Rabdanova"
+format: html
+editor: visual
+---
+
+##Approach
+
+### Analyzing Air Quality data
+
+I was looking a simple dataset with data quality measurements. My goal is to show how to present important quality metrics using simple charts.
+
+### Air quality monitoring in an Italian city
+
+Source: https://archive.ics.uci.edu/ml/index.php
